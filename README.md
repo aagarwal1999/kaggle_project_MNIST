@@ -1,4 +1,4 @@
-#kaggle_project_MNIST
+# kaggle_project_MNIST
 
 Hello, before you embark on reading this code, you must download the database I used from the website below
 The reason for this is because the data-sets are too large to be pushed remotely to github. 
@@ -9,7 +9,7 @@ Make sure you download the matlab files, not the binary files.
 
 Once that is done, extract the files into a folder called Data. After that, everything should work. 
 
-#Summary
+# Summary
 
 Over the past week or so, I have been working on creating a Neural Network for the Kaggle competition located here: https://www.kaggle.com/c/digit-recognizer. However, I have decided to expand the dataset into the emnist dataset including letters as well, just to see if anything will happen. 
 
